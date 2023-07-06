@@ -1,0 +1,52 @@
+{
+    "sneakers": [
+        {
+            "brand": "Nike",
+            "model": "Dunk Low",
+            "color": "University Blue",
+            "img": "/nfts/nike_dunk_low.jpg",
+            "price": "0.13 ETH",
+            "size": 8
+        },
+        {
+            "brand": "New Balance",
+            "model": "1906R",
+            "color": "Gray",
+            "img": "/nfts/new_balance.jpg",
+            "price": "0.10 ETH",
+            "size": 8.5
+        },
+        {
+            "brand": "Nike",
+            "model": "Zoom Vomero 5",
+            "color": "Blue",
+            "img": "/nfts/nike_zoom_vomero.jpg",
+            "price": "0.09 ETH",
+            "size": 7
+        },
+        {
+            "brand": "Adidas",
+            "model": "Gazelle",
+            "color": "Blue",
+            "img": "/nfts/adidas_gazelle.jpg",
+            "price": "0.056 ETH",
+            "size": 8
+        },
+        {
+            "brand": "Menez",
+            "model": "Low Rider",
+            "color": "Green",
+            "img": "/nfts/menez.jpg",
+            "price": "10 ETH",
+            "size": 6.5
+        },
+        {
+            "brand": "New Balance",
+            "model": "550",
+            "color": "Green",
+            "img": "/nfts/nb_550.jpg",
+            "price": "0.085 ETH",
+            "size": 8
+        }
+    ]
+}
