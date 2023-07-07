@@ -8,7 +8,7 @@ import styles from "../styles";
 import { FormField, Loader, QrCodeToPDF, ErrorBox } from "../components";
 
 const contractAddress = import.meta.env.VITE_NFT_CONTRACT_ADDRESS;
-const backendUrl = import.meta.env.VITE_NFT_BACKEND_URL;
+const backendUrl = "https://sneakerstamp-efeda8a01089.herokuapp.com/";
 
 const GenerateNft = () => {
   const [qrCodeReady, setQrCodeReady] = useState(false);

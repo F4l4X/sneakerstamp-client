@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 import { SneakersCard } from "../components";
 import { fadeIn } from "../utils/motion";
 
-const backendUrl = import.meta.env.VITE_NFT_BACKEND_URL;
+const backendUrl = "https://sneakerstamp-efeda8a01089.herokuapp.com/";
 
 const Profile = () => {
   const navigate = useNavigate();

@@ -15,7 +15,7 @@ import { TfiNewWindow } from "react-icons/tfi";
 
 import { BuyNFTModal, DelistNFTModal, ListNFTModal } from "../components";
 
-const backendUrl = import.meta.env.VITE_NFT_BACKEND_URL;
+const backendUrl = "https://sneakerstamp-efeda8a01089.herokuapp.com/";
 
 const NftDetails = () => {
   const [showTraits, setShowTraits] = useState(false);

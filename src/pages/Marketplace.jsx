@@ -10,7 +10,7 @@ import SideBar from "../components/marketplace/SideBar";
 
 const marketPlaceContractAddress = import.meta.env
   .VITE_MARKETPLACE_CONTRACT_ADDRESS;
-const backendUrl = import.meta.env.VITE_NFT_BACKEND_URL;
+const backendUrl = "https://sneakerstamp-efeda8a01089.herokuapp.com/";
 
 const Marketplace = () => {
   const [listedItems, setListedItems] = useState(null);
